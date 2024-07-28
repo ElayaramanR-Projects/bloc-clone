@@ -3,3 +3,10 @@
 @tailwind components;
 
 @tailwind utilities;
+
+body{
+    background: #000;
+}
+.d-g{
+    background-image: url('../src/app/assets/diamond_gradient.png');
+}
